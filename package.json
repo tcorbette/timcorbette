@@ -1,0 +1,19 @@
+{
+  "name": "TimCorbette",
+  "version": "0.0.0",
+  "description": "Global task runner for Tim Corbette",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcorbette/timcorbette.git"
+  },
+  "keywords": [
+    "Corbette"
+  ],
+  "author": "Timothy Corbette",
+  "license": "BSD",
+  "gitHead": "3577b40a287dbe12dbe8fe8482fc5834a04da31e"
+}
