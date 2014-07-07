@@ -1,6 +1,6 @@
 {
   "name": "TimCorbette",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Global task runner for Tim Corbette",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,12 @@
   ],
   "author": "Timothy Corbette",
   "license": "BSD",
-  "gitHead": "3577b40a287dbe12dbe8fe8482fc5834a04da31e"
+  "gitHead": "3577b40a287dbe12dbe8fe8482fc5834a04da31e",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "dust": "~0.3.0",
+    "readme": "~0.2.0",
+    "csslint": "~0.10.0",
+    "jslint": "~0.5.2"
+  }
 }
